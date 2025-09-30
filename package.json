@@ -1,0 +1,28 @@
+{
+  "name": "npm11-dependabot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/broksonic21/npm11-dependabot#readme",
+  "bugs": {
+    "url": "https://github.com/broksonic21/npm11-dependabot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broksonic21/npm11-dependabot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@swc/core": "^1.10.0",
+    "nx": "^21.0.0"
+  },
+  "volta": {
+    "node": "22.20.0",
+    "npm": "11.6.1"
+  }
+}
